@@ -1,12 +1,27 @@
-*{
+/* *{
    
     background-color: blue;
+} */
+
+h1 {
+  color: crimson;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+  font-size: 20px;
+}
+ul > li {
+  color: blueviolet;
+}
+.food {
+  background-color: blue;
 }
 
-h1{
-    color: crimson;
-}
-img{
-    width: 200px;
-    height: 200px;
+.food {
+  background-color: chartreuse;
 }
