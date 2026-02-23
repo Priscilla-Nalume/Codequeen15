@@ -1,0 +1,30 @@
+*{
+    margin: 0cm;
+}
+#sample{
+    background-color: blue;
+    border: 5px yellowgreen ;
+}
+
+.first{
+    border-style: dotted;
+    margin: 10px 25px;
+    padding: 20px;
+
+
+}
+
+/* My flexbox properties */
+.Container{
+    background-color: aquamarine;
+
+}
+
+.child{
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    /* gap: 10px; */
+    justify-content: space-between;
+}
+
