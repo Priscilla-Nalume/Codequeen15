@@ -27,4 +27,47 @@
     /* gap: 10px; */
     justify-content: space-between;
 }
+/* blue container */
+.bluecontainer{
+    border: 3px blue solid;
+    padding: 20px;
+    margin: 100px 20px;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    justify-items: flex-end;
+    /* justify-self: center; */
+    justify-content: space-evenly;
+    flex-direction: row;
+     
+    
+    
+
+}
+.flex-items{
+    border: 2px orangered solid;
+    margin: 20px 20px
+    height; 2px
+    width:60px
+ 
+    
+    
+
+      
+}
+.lastcontainer{
+    border: 1px olivedrab;
+    display: flex;
+}
+.mine{
+    color: blue;
+    border-style: double;
+    border-color: chartreuse;
+    align-self: center;
+
+}
+img {
+    width: 100px;
+    align-content: center;
+}
 
