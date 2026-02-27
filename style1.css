@@ -70,4 +70,10 @@ img {
     width: 100px;
     align-content: center;
 }
+/* linked this css to bootstrap.html */
+.button{
+
+    color: chartreuse;
+    background-color: blue;
+}
 
